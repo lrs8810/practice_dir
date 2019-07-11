@@ -1,6 +1,6 @@
 Class: Bottles
 
 Attributes:
-* material (string)
-* color (string)
-* something else (boolean)
+1. material (string)
+1. color (string)
+1. something else (boolean)
