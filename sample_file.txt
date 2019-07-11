@@ -1,0 +1,9 @@
+1. making a pizza
+  1.1 collecting ingredients
+    1.1.1 collecting sauce ingredients
+      1.1.1.1 tomato sauce
+    1.1.2 collecting crust ingredients
+    1.1.3 collecting topping ingredients
+  1.2 making the crust
+  1.3 making the sauce
+  1.4 putting together the pizza
