@@ -5,5 +5,9 @@
     1.1.2 collecting crust ingredients
     1.1.3 collecting topping ingredients
   1.2 making the crust
+    1.2.1 making the dough
+      1.2.1.1 combine dough ingredients
+    1.2.2 rolling out dough
+      1.2.2.1 use a rolling pin
   1.3 making the sauce
   1.4 putting together the pizza
